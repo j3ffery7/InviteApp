@@ -1,0 +1,12 @@
+{
+  "login_required": "You must log in with your Nextcloud account to request an invite.",
+  "request_invite": "Request an Invite",
+  "email_address": "Email Address:",
+  "group": "Group:",
+  "link_expires_days": "Link Expires (days):",
+  "generate_invite": "Generate Invite",
+  "accept_invite_to": "Accept Invite to",
+  "choose_username": "Choose a Username:",
+  "choose_password": "Choose a Password:",
+  "create_account": "Create Account"
+}
